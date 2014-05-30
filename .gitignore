@@ -1,0 +1,16 @@
+*.suo
+*.pdb
+*.sdf
+*.opensdf
+./Twilight_2K_Character_Gen/Debug
+./Twilight_2K_Character_Gen/Release
+*.exe
+*.o
+*.a
+*.ilk
+*.tlog
+*.log
+*.lastbuildstate
+*.idb
+*.obj
+
